@@ -10,7 +10,7 @@ http://stackoverflow.com/questions/14098032/add-string-to-string-array
 http://stackoverflow.com/questions/11229986/get-string-character-by-index-java
 http://stackoverflow.com/questions/5192512/how-to-clear-empty-java-stringbuilder
 http://stackoverflow.com/questions/5374311/convert-arrayliststring-to-string
-While debugging, I close the variable window and forgot how to get it back. Nora in our class show me how to do it.
+While debugging, I close the variable window and forgot how to get it back. Nora in our class showed me how to do it.
 
 Part B:
 _Professor Rebelsky explains last 2 test cases in class on Wed, Feb 5th, 2014.
