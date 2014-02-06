@@ -3,6 +3,8 @@ csc207-hw3
 
 Assignment 3 of CSC-207 Spring 2014
 
+I finish all the exercises. All the methods pass their JUnit test.
+
 Citation
 Part A:
 http://stackoverflow.com/questions/14035549/how-to-return-array-of-strings-in-java
