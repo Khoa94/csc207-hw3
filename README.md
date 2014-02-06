@@ -30,3 +30,6 @@ http://ayyostream.blogspot.com/2012/01/how-to-convert-biginteger-to-int-in.html
 http://www.juce.com/api/classBigInteger.html
 http://docs.oracle.com/javase/6/docs/api/java/math/BigInteger.html
 Professor Rebelsky helps me initialize a big integer and tell me that an expression in Java is evaluate from left to right.
+
+Using github:
+http://linuxprograms.wordpress.com/2012/01/30/git-how-to-recursively-add-the-files-in-a-directory/
